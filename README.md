@@ -11,3 +11,5 @@ XMR wallet: 8ABnSwAMxrz2iWBzxC8sCY5DsSMui5ozPaAtQXhgbkbz6PgdFA5iiwHXyYbH6omjySHV
 accurate direction all the time
 
 <img width="1812" height="610" alt="p1" src="https://github.com/user-attachments/assets/a2f15581-d712-4b8a-b593-62a6fa28a0c4" />
+
+equity graph soon...
